@@ -2,15 +2,15 @@
 
 # Background
 
-  As cloud computing services gradually become more complex, real time alerting is very 
-  important. Automating alerts on resources utilization and other factors within a 
-  cloud server can significantly aid in improving and maintaining performance and security
-  within cloud applications.
+	As cloud computing services gradually become more complex, real time alerting is very 
+	important. Automating alerts on resources utilization and other factors within a 
+	cloud server can significantly aid in improving and maintaining performance and security
+	within cloud applications.
 
 # Problem
 
 	Design a Java program which simulates a cloud server resource utilization alert system. 
-  The system will take in 
+  	The system will take in 
 
 # Program Detail
 
